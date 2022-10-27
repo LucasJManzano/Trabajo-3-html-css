@@ -1,0 +1,15 @@
+transition
+
+crear un div caja, ponerle el color
+en el .caja{backround-color= rojo; transition= 3s}
+despues con
+.cja:hover { backround-color= azul} 
+le cambias el color de fondo de rojo a azul en 3 segundos por ejemplo
+
+podes hacer cualquier cosa, cambiar margin, opacity,
+hay varias opciones ease, y varias mas
+
+transition 3 segundos
+
+en el hover {transform:scale (2)}
+duplica el tamaño 
